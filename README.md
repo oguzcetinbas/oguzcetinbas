@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oguz Cetinbas</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on [MoviesHub](https://github.com/oguzcetinbas/MovieHub)
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **Algorithms and how to deal with big problems**
 
